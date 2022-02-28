@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+double my_double=2.2;
 int main(){
 
     //std::cout << "Hola, mundo!" << std::endl;

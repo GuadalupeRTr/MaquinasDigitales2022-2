@@ -6,8 +6,17 @@ int main(){
     //std::cout << "Hola, mundo!" << std::endl;
     cout << "Hola, mundo!" << endl;     
     return 0;
+
+<<<<<<< HEAD
+    //arreglando codigo
+=======
     //modificación para realizar rama secundaria para hacer merge
 
+    
 }
+
+
+
+
 
 

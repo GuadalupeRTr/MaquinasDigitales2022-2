@@ -10,11 +10,9 @@ int main(){
     cout << "Tamaño en bytes de <long>: " << sizeof(long) << endl;
     cout << "Tamaño en bytes de <double>: " << sizeof(double) << endl;
 
-
+    cout << "Probando el pull" << endl;
+    double var=5;
+    return 1;
 
     return 0;
-}
-
-int myfunc(){
-    return 
 }

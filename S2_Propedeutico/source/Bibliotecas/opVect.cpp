@@ -1,4 +1,4 @@
-//Implementación de las funciones
+//Implementación de las funciones. Tema Creación de bibliotecas
 #include "opVect.h"
 #include <iostream>
 using namespace std;

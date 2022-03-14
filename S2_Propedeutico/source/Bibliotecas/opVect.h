@@ -1,4 +1,4 @@
-//Definiciones o prototipos de función
+//Definiciones o prototipos de función. Creación de bibliotecas
 
 void printVect(int *v, int size);
 void sumVect(int *va, int *vb, int *vs, int size);

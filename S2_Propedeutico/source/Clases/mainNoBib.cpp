@@ -13,9 +13,11 @@ class TarjetaBancaria{
     int nipTarjeta;
 
 //Creamos un constructor
+
     TarjetaBancaria(string num_Tarjeta,string nombreTarjeta, string BancoEmisor,
                     int mesVig, int anioVig, int nipTarjeta){
 
+//nombre de las variables que utilizaremos
         numTarjeta = num_Tarjeta;
         this -> nombreTarjeta = nombreTarjeta;
         this -> BancoEmisor = BancoEmisor;
